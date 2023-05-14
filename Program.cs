@@ -3,7 +3,7 @@
     static void Main(string[] args)
     {
         // Создаем исходный массив строк
-        string[] array = { "Hello", "2", "world", ":-)", "1234", "1567", "-2", "computer science", "Russia", "Denmark", "Kazan" };
+        string[] array = { "Hello", "2", "world", ":-)", "1234", "1567", "-2", "computer science", };
 
         // Создаем новый массив строк
         string[] newArray = new string[array.Length];
